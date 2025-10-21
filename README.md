@@ -1,50 +1,87 @@
 <div align="center">
 
 <!-- Dynamic Header with Gradient Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gabriel%20Lima%20Ferreira&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Full%20Stack%20Developer%20|%20DevSecOps%20Specialist%20|%20Performance%20Engineer&descSize=18&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gabriel%20Lima%20Ferreira&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20.NET%20Developer%20|%20DevSecOps%20|%20AWS-Kubernetes-ArgoCD%20|%20Trilingual&descSize=16&descAlignY=55"/>
 
 </div>
 
 <!-- Profile Views Counter with Custom Styling -->
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=glferreira-devsecops&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
-![](https://img.shields.io/github/followers/glferreira-devsecops?label=Followers&style=for-the-badge&color=blue&logo=github)
-![](https://img.shields.io/github/stars/glferreira-devsecops?label=Total+Stars&style=for-the-badge&color=yellow&logo=github)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=glferreira-devsecops&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/glferreira-devsecops?label=Followers&style=for-the-badge&color=blue&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/glferreira-devsecops?label=Total+Stars&style=for-the-badge&color=yellow&logo=github" alt="Total Stars"/>
+</p>
 
 <br/>
 
 <!-- Typing SVG Animation with Multiple Lines -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&repeat=true&width=800&lines=Hey!+I'm+Gabriel+%F0%9F%91%8B;Senior+Full+Stack+Developer+%F0%9F%9A%80;DevSecOps+%26+Performance+Expert+%E2%9A%A1;Building+Secure+%26+Scalable+Systems+%F0%9F%9B%A1%EF%B8%8F;40-85%25+Performance+Boost+Delivered+%F0%9F%93%88;96%25%2B+Test+Coverage+Advocate+%F0%9F%A7%AA;Open+Source+Contributor+%E2%AD%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&repeat=true&width=800&lines=Hey!+I'm+Gabriel+\"Gringo\"+👋;Full-Stack+.NET+Developer+🚀;DevSecOps+%26+Offensive+Security+Expert+⚡;AWS-Kubernetes-ArgoCD+Architect+☸️;35%25+Time-to-Market+Reduction+📈;Cascavel+Framework+Creator+🔒;Trilingual:+PT+|+EN+|+ES+🌎" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<!-- Hero Banner with Key Differentiators -->
+<div align="center">
+
+### 🏆 **Why Choose Gabriel "Gringo"?**
+
+<table>
+<tr>
+<td align="center" width="25%">
+  <img src="https://img.icons8.com/clouds/100/000000/lightning-bolt.png" width="60"/>
+  <br/><b>35% Faster</b>
+  <br/><sub>Time-to-Market</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.icons8.com/clouds/100/000000/money-bag.png" width="60"/>
+  <br/><b>3x ROI</b>
+  <br/><sub>Delivered</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.icons8.com/clouds/100/000000/shield.png" width="60"/>
+  <br/><b>-38% CVEs</b>
+  <br/><sub>Eliminated</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.icons8.com/clouds/100/000000/server.png" width="60"/>
+  <br/><b>99.95%</b>
+  <br/><sub>Uptime</sub>
+</td>
+</tr>
+</table>
+
 </div>
 
 <br/>
 
 <!-- Social Connect Badges -->
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devferreirag/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/glferreira-devsecops)
-[![Email](https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:contato.ferreirag@outlook.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/devferreirag/" target="_blank">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/glferreira-devsecops" target="_blank">
+    <img src="https://img.shields.io/badge/🐙_GitHub-Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:contato.ferreirag@outlook.com">
+    <img src="https://img.shields.io/badge/✉️_Email-Drop_a_Message-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Coming_Soon-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
 <br/>
 
 <!-- Quick Stats Banner -->
-<div align="center">
-
-![](https://img.shields.io/badge/🎯_Experience-Senior_Level-blueviolet?style=for-the-badge)
-![](https://img.shields.io/badge/🛡️_Focus-DevSecOps-red?style=for-the-badge)
-![](https://img.shields.io/badge/⚡_Specialization-Performance-green?style=for-the-badge)
-![](https://img.shields.io/badge/🧪_Coverage-96%25-success?style=for-the-badge)
-![](https://img.shields.io/badge/📦_Projects-83%2B-blue?style=for-the-badge)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/🎯_Experience-5%2B_Years-blueviolet?style=for-the-badge" alt="Experience"/>
+  <img src="https://img.shields.io/badge/🛡️_Security-Offensive_Security-red?style=for-the-badge" alt="Security"/>
+  <img src="https://img.shields.io/badge/☸️_Stack-AWS--K8s--ArgoCD-green?style=for-the-badge" alt="Stack"/>
+  <img src="https://img.shields.io/badge/📜_Certs-30%2B_International-success?style=for-the-badge" alt="Certifications"/>
+  <img src="https://img.shields.io/badge/📦_Repos-83%2B-blue?style=for-the-badge" alt="Repos"/>
+  <img src="https://img.shields.io/badge/🌐_Languages-PT_|_EN_|_ES-orange?style=for-the-badge" alt="Languages"/>
+</p>
 
 ---
 
@@ -60,32 +97,35 @@
 <img align="right" alt="Coding GIF" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```typescript
-const gabriel = {
+const gabriel: Developer = {
   pronouns: "He" | "Him",
   location: "🇧🇷 Rio de Janeiro, Brazil",
-  company: "RET TECNOLOGIA LTDA",
-  role: "Senior Full Stack Developer",
+  company: "RET Consultoria (Automação & Software)",
+  role: "Full-Stack .NET Developer | DevSecOps",
   email: "contato.ferreirag@outlook.com",
 
   code: {
-    languages: ["TypeScript", "Python", "Java", "JavaScript", "C#"],
-    frontend: ["React", "Next.js", "Angular", "Vue", "Tailwind"],
-    backend: ["Node.js", "Spring Boot", "NestJS", "FastAPI"],
+    languages: ["C#/.NET", "TypeScript", "Python", "JavaScript", "Java", "PHP"],
+    frontend: ["React", "Next.js", "Angular", "Vue"],
+    backend: ["Node.js", "NestJS", ".NET Core", "FastAPI", "Spring Boot"],
     databases: ["PostgreSQL", "MongoDB", "Redis", "MySQL"],
-    devOps: ["Docker", "Kubernetes", "AWS", "Azure", "Terraform"]
+    devOps: ["AWS", "Kubernetes", "ArgoCD", "Docker", "Terraform", "Serverless"]
   },
 
   expertise: {
-    devSecOps: "Security automation & CI/CD pipelines",
-    performance: "40-85% faster applications delivered",
-    architecture: "Microservices, Event-Driven, DDD"
+    devSecOps: "SAST, DAST, IaC | -38% CVEs reduction",
+    performance: "35% time-to-market reduction | 100/100 Lighthouse",
+    architecture: "AWS-Kubernetes-ArgoCD | 99.95% uptime",
+    security: "Offensive Security | SSDLC | Open Finance"
   },
 
   achievements: {
-    testCoverage: "85-96% across projects",
-    lighthouseScore: "95+ consistently",
-    openSourceStars: "11+",
-    repositories: "83+"
+    cascavel: "Offensive security framework | 12 countries | 9★",
+    cotacaoPRO: "FX PWA | 100/100 Lighthouse score",
+    certifications: "30+ international certifications",
+    roi: "3x ROI for fintech & SaaS",
+    repositories: "83+",
+    languages: "🇧🇷 PT | 🇺🇸 EN | 🇪🇸 ES (Trilingual)"
   },
 
   currentFocus: [
@@ -95,9 +135,22 @@ const gabriel = {
     "⚡ Edge Computing & WebAssembly"
   ],
 
-  funFact: "I can debug faster with coffee than without! ☕"
+  funFact: "I can debug faster with coffee than without! ☕",
+
+  philosophy: {
+    code: "Clean Code & SOLID Principles",
+    security: "Security by Design, not as an Afterthought",
+    delivery: "High Ownership & Transparent Communication",
+    growth: "Always Learning, Always Improving"
+  }
 };
 ```
+
+<div align="center">
+
+**💡 Creating lean, secure & scalable solutions | 🌍 Serving clients globally in 3 languages**
+
+</div>
 
 <br clear="right"/>
 
@@ -105,248 +158,254 @@ const gabriel = {
 
 <br/>
 
-<!-- Skills & Technologies with Progress Bars -->
+<!-- Skills & Technologies -->
 <div align="center">
 
-## 💻 Skills & Technologies
+## 💻 Tech Arsenal & Expertise
+
+<div align="center">
+
+**🎯 Production-Grade Technologies I Build With Daily**
 
 </div>
 
-### 🚀 Languages & Frameworks
+### 🚀 Core Languages & Frameworks
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
+  <br/><sub><b>C#</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
+  <br/><sub><b>.NET</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
+  <br/><sub><b>TypeScript</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+  <br/><sub><b>Python</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+  <br/><sub><b>JavaScript</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+  <br/><sub><b>Java</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+  <br/><sub><b>PHP</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+  <br/><sub><b>React</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+  <br/><sub><b>Next.js</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
+  <br/><sub><b>Angular</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue.js" />
+  <br/><sub><b>Vue.js</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+  <br/><sub><b>Node.js</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" />
+  <br/><sub><b>NestJS</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
+  <br/><sub><b>Spring Boot</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+  <br/><sub><b>FastAPI</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
+  <br/><sub><b>GraphQL</b></sub>
+</td>
+</tr>
+</table>
+
+<br/>
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+### 🗄️ Databases & Message Brokers
 
 </div>
 
 <table align="center">
 <tr>
 <td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
-  <br/>TypeScript
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
-  <br/>JavaScript
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-  <br/>Python
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-  <br/>Java
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-  <br/>React
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-  <br/>Next.js
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
-  <br/>Angular
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue.js" />
-  <br/>Vue.js
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-  <br/>Node.js
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
-  <br/>Spring Boot
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" />
-  <br/>NestJS
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
-  <br/>FastAPI
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
-  <br/>GraphQL
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-  <br/>Tailwind
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
-  <br/>Vite
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=webpack" width="48" height="48" alt="Webpack" />
-  <br/>Webpack
-</td>
-</tr>
-</table>
-
-<br/>
-
-### 🗄️ Databases & Tools
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
-  <br/>PostgreSQL
+  <br/><sub><b>PostgreSQL</b></sub>
 </td>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-  <br/>MongoDB
+  <br/><sub><b>MongoDB</b></sub>
 </td>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-  <br/>Redis
+  <br/><sub><b>Redis</b></sub>
 </td>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-  <br/>MySQL
+  <br/><sub><b>MySQL</b></sub>
 </td>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" />
-  <br/>Prisma
+  <br/><sub><b>Prisma</b></sub>
 </td>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka" />
-  <br/>Kafka
+  <br/><sub><b>Kafka</b></sub>
 </td>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
-  <br/>Supabase
+  <br/><sub><b>Supabase</b></sub>
 </td>
 </tr>
 </table>
 
-</div>
-
 <br/>
-
-### 🛡️ DevSecOps & Cloud
 
 <div align="center">
 
-<table>
+### 🛡️ DevSecOps & Cloud Infrastructure
+
+</div>
+
+<table align="center">
 <tr>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-  <br/>Docker
+  <br/><sub><b>Docker</b></sub>
 </td>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
-  <br/>Kubernetes
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
-  <br/>GH Actions
+  <br/><sub><b>Kubernetes</b></sub>
 </td>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-  <br/>AWS
+  <br/><sub><b>AWS</b></sub>
 </td>
 <td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
-  <br/>Azure
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
+  <br/><sub><b>Kubernetes</b></sub>
 </td>
 <td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
-  <br/>GCP
+  <img src="https://skillicons.dev/icons?i=argocd" width="48" height="48" alt="ArgoCD" />
+  <br/><sub><b>ArgoCD</b></sub>
 </td>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" />
-  <br/>Terraform
+  <br/><sub><b>Terraform</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
+  <br/><sub><b>GH Actions</b></sub>
 </td>
 </tr>
 <tr>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
-  <br/>Jenkins
+  <br/><sub><b>Jenkins</b></sub>
 </td>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-  <br/>Git
+  <br/><sub><b>Git</b></sub>
 </td>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-  <br/>Linux
+  <br/><sub><b>Linux</b></sub>
 </td>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
-  <br/>Nginx
+  <br/><sub><b>Nginx</b></sub>
 </td>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" alt="Prometheus" />
-  <br/>Prometheus
+  <br/><sub><b>Prometheus</b></sub>
 </td>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Grafana" />
-  <br/>Grafana
+  <br/><sub><b>Grafana</b></sub>
 </td>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
-  <br/>Bash
+  <br/><sub><b>Bash</b></sub>
 </td>
 </tr>
 </table>
-
-</div>
 
 <br/>
 
-### 🧪 Testing & Quality
-
 <div align="center">
 
-<table>
+### 🧪 Testing & Development Tools
+
+</div>
+
+<table align="center">
 <tr>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="Jest" />
-  <br/>Jest
+  <br/><sub><b>Jest</b></sub>
 </td>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=vitest" width="48" height="48" alt="Vitest" />
-  <br/>Vitest
+  <br/><sub><b>Vitest</b></sub>
 </td>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=cypress" width="48" height="48" alt="Cypress" />
-  <br/>Cypress
+  <br/><sub><b>Cypress</b></sub>
 </td>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=selenium" width="48" height="48" alt="Selenium" />
-  <br/>Selenium
+  <br/><sub><b>Selenium</b></sub>
 </td>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-  <br/>VS Code
+  <br/><sub><b>VS Code</b></sub>
 </td>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ" />
-  <br/>IntelliJ
+  <br/><sub><b>IntelliJ</b></sub>
 </td>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-  <br/>Postman
+  <br/><sub><b>Postman</b></sub>
 </td>
 </tr>
 </table>
-
-</div>
 
 ---
 
@@ -355,13 +414,17 @@ const gabriel = {
 <!-- GitHub Stats Section -->
 <div align="center">
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Activity
+
+<div align="center">
+
+**🔥 Consistent Contributor | 📈 83+ Public Repositories | 🌟 Active Open Source**
 
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=glferreira-devsecops&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&custom_title=Gabriel's%20GitHub%20Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glferreira-devsecops&layout=compact&langs_count=12&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&card_width=320"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=glferreira-devsecops&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&custom_title=Gabriel's%20GitHub%20Stats&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glferreira-devsecops&layout=compact&langs_count=12&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&card_width=320"/>
+
 </div>
 
 <br/>
@@ -395,18 +458,32 @@ const gabriel = {
 <!-- Featured Projects Section -->
 <div align="center">
 
-## 🌟 Featured Projects
-
-</div>
+## 🌟 Featured Projects & Real-World Impact
 
 <div align="center">
 
+**🚀 Building Production-Grade Solutions That Matter**
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
 <a href="https://github.com/glferreira-devsecops/cascavel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=glferreira-devsecops&repo=cascavel&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&description_lines_count=3" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=glferreira-devsecops&repo=cascavel&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&description_lines_count=3"/>
 </a>
+<br/>
+<sub>🌍 <b>9 stars</b> | Used in <b>12 countries</b> | Offensive Security</sub>
+</td>
+<td width="50%">
 <a href="https://github.com/glferreira-devsecops/apispring">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=glferreira-devsecops&repo=apispring&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&description_lines_count=3" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=glferreira-devsecops&repo=apispring&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&description_lines_count=3"/>
 </a>
+<br/>
+<sub>☕ <b>Java 21</b> | <b>90% coverage</b> | Spring Boot 3 + Kafka</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -414,12 +491,32 @@ const gabriel = {
 
 <div align="center">
 
+<table>
+<tr>
+<td width="50%">
 <a href="https://github.com/glferreira-devsecops/vitale">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=glferreira-devsecops&repo=vitale&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&description_lines_count=3" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=glferreira-devsecops&repo=vitale&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&description_lines_count=3"/>
 </a>
+<br/>
+<sub>💊 <b>1 star</b> | Medical E-commerce | React 18 + TypeScript</sub>
+</td>
+<td width="50%">
 <a href="https://github.com/glferreira-devsecops/shopfast">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=glferreira-devsecops&repo=shopfast&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&description_lines_count=3" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=glferreira-devsecops&repo=shopfast&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&description_lines_count=3"/>
 </a>
+<br/>
+<sub>🛒 E-commerce Study Project | <b>Online</b> | TypeScript</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+**💱 Cotação PRO** - Real-time Foreign Exchange Progressive Web App
+- ⚡ **Perfect 100/100 Lighthouse Score** - Optimized for performance
+- 🌐 Live FX rates with real-time currency conversion
+- 📱 Progressive Web App - Works offline
+- 💼 Production-ready fintech solution serving real users
 
 </div>
 
@@ -429,24 +526,28 @@ const gabriel = {
 
 ```mermaid
 graph LR
-    A[🔒 Cascavel<br/>9⭐] --> B{Security}
-    C[🚀 ApiSpring<br/>88.6%] --> D{E-commerce}
-    E[💼 Vitale<br/>40% faster] --> F{B2B Platform}
-    G[🛒 ShopFast<br/>85% boost] --> H{Optimization}
+    A[🔒 Cascavel<br/>9⭐] --> B{Offensive<br/>Security}
+    C[💱 Cotação PRO<br/>100/100] --> D{Real-time<br/>FX PWA}
+    E[🚀 ApiSpring<br/>90%] --> F{Spring Boot 3<br/>Platform}
+    G[💼 Vitale<br/>1⭐] --> H{E-commerce<br/>Medical}
+    I[🛒 ShopFast<br/>Online] --> J{E-commerce<br/>Study}
 
-    B --> I[OWASP Compliant]
-    D --> J[Spring Boot 3]
-    F --> K[React 18 + TS]
-    H --> L[Next.js 14]
+    B --> K[12 Countries]
+    D --> L[Lighthouse Perfect]
+    F --> M[Java 21 + Kafka]
+    H --> N[React 18 + TS]
+    J --> O[TypeScript]
 
-    style A fill:#ff6b6b
-    style C fill:#4ecdc4
-    style E fill:#45b7d1
-    style G fill:#f9ca24
-    style B fill:#ff6b6b
-    style D fill:#4ecdc4
-    style F fill:#45b7d1
-    style H fill:#f9ca24
+    style A fill:#ff6b6b,stroke:#c23616,stroke-width:3px
+    style C fill:#4ecdc4,stroke:#0fb9b1,stroke-width:3px
+    style E fill:#45b7d1,stroke:#2d98da,stroke-width:3px
+    style G fill:#f9ca24,stroke:#f0932b,stroke-width:3px
+    style I fill:#a29bfe,stroke:#6c5ce7,stroke-width:3px
+    style B fill:#ff6b6b,stroke:#c23616,stroke-width:2px
+    style D fill:#4ecdc4,stroke:#0fb9b1,stroke-width:2px
+    style F fill:#45b7d1,stroke:#2d98da,stroke-width:2px
+    style H fill:#f9ca24,stroke:#f0932b,stroke-width:2px
+    style J fill:#a29bfe,stroke:#6c5ce7,stroke-width:2px
 ```
 
 <details>
@@ -454,12 +555,13 @@ graph LR
 
 <br/>
 
-| Project | Tech Stack | Performance | Coverage | Status |
-|---------|-----------|-------------|----------|--------|
-| 🔒 **Cascavel** | Python, Security Tools | N/A | N/A | ✅ Active |
-| 🚀 **ApiSpring** | Java 21, Spring Boot 3, Kafka | ⚡ Optimized | 88.6% | ✅ Active |
-| 💼 **Vitale** | React 18, TypeScript | +40% | 96% | ✅ Active |
-| 🛒 **ShopFast** | Next.js 14, TypeScript | +85% | 96%+ | ✅ Active |
+| Project | Tech Stack | Stars | Highlights | Status |
+|:--------|:-----------|:-----:|:-----------|:------:|
+| 🔒 **Cascavel** | Python, Offensive Security | 9★ | Used in 12 countries | ✅ Active |
+| 💱 **Cotação PRO** | React, PWA, Real-time FX | N/A | 100/100 Lighthouse | ✅ Production |
+| 🚀 **ApiSpring** | Java 21, Spring Boot 3, Kafka | 0★ | 90% test coverage | ✅ Active |
+| 💼 **Vitale** | React 18, TypeScript | 1★ | Medical e-commerce | 🌐 Online |
+| 🛒 **ShopFast** | TypeScript, E-commerce Study | 0★ | Learning project | 🌐 Online |
 
 </details>
 
@@ -478,100 +580,99 @@ graph LR
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ DevSecOps Excellence
+### 🛡️ DevSecOps Excellence | **-38% CVEs Achieved**
 
 ```yaml
-🔐 Security First:
+🔐 Security-First Engineering:
   ✅ OWASP Top 10 Compliance
-  ✅ Container Security Hardening
-  ✅ CI/CD Security Gates
-  ✅ Vulnerability Management
-  ✅ Zero Trust Architecture
-  ✅ Infrastructure as Code Security
-  ✅ Automated Security Testing
+  ✅ Container Security Hardening (Trivy, Clair)
+  ✅ SAST/DAST Integration (SonarQube, OWASP ZAP)
+  ✅ CI/CD Security Gates & SLSA Level 3
+  ✅ Zero Trust Architecture Implementation
+  ✅ Infrastructure as Code Security (Terraform)
+  ✅ Secrets Management (HashiCorp Vault)
   ✅ Compliance Automation (SOC2, ISO27001)
+  ✅ Offensive Security (Cascavel Framework - 12 Countries)
 ```
 
-**Tools & Practices:**
-- Docker Security Scanning
-- Kubernetes Pod Security
-- Secrets Management (Vault)
-- SAST/DAST Integration
-- Security Monitoring & Alerting
+**Real Results:**
+- 🎯 **Eliminated 38% of critical CVEs** across production systems
+- 🔒 **SLSA 3 certified** supply chain security pipelines
+- 🌍 **Cascavel framework** adopted in 12 countries worldwide
+- 🏆 **Zero-day vulnerability** response < 24 hours
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Performance Engineering
+### ⚡ Performance Engineering | **35% Time-to-Market Reduction**
 
 ```yaml
-🚀 Speed Optimization:
-  ✅ 40-85% Faster Applications
-  ✅ Lighthouse Score 95+
-  ✅ Bundle Size Optimization (-60%)
-  ✅ Database Query Optimization
-  ✅ Advanced Caching Strategies
-  ✅ CDN & Edge Computing
+🚀 Proven Speed Optimization:
+  ✅ 35% Time-to-Market Reduction (5+ Years Track Record)
+  ✅ Perfect 100/100 Lighthouse Score (Cotação PRO)
+  ✅ 99.95% Uptime (AWS-Kubernetes-ArgoCD)
+  ✅ Database Query Optimization (N+1 Elimination)
+  ✅ Advanced Caching Strategies (Redis, CDN)
   ✅ Real-time Performance Monitoring
-  ✅ Load Testing & Benchmarking
+  ✅ Load Testing & Capacity Planning
+  ✅ Edge Computing & Serverless Optimization
 ```
 
-**Techniques:**
-- Code Splitting & Lazy Loading
-- Image Optimization & WebP
-- Redis Caching Layers
-- Database Indexing Strategies
-- CDN Configuration & Optimization
+**Proven Track Record:**
+- 💡 **Cotação PRO**: Perfect 100/100 Lighthouse score
+- ⚡ **35% faster** time-to-market consistently delivered
+- 💰 **3x ROI** generated for fintech & SaaS clients
+- 📈 **99.95% uptime** maintained on critical systems
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🏗️ Software Architecture
+### 🏗️ Software Architecture | **99.95% Uptime Achieved**
 
 ```yaml
-🎯 System Design:
-  ✅ Microservices Architecture
-  ✅ Event-Driven Systems
+🎯 Production-Proven System Design:
+  ✅ Microservices Architecture (AWS-Kubernetes-ArgoCD)
+  ✅ Event-Driven Systems (Kafka, RabbitMQ)
   ✅ Domain-Driven Design (DDD)
   ✅ CQRS & Event Sourcing
-  ✅ API Gateway Patterns
-  ✅ Service Mesh (Istio)
-  ✅ High Availability Design
-  ✅ Multi-Cloud Strategies
+  ✅ API Gateway Patterns (Kong, AWS API Gateway)
+  ✅ Service Mesh (Istio/Linkerd)
+  ✅ High Availability Design (99.95% uptime)
+  ✅ Multi-Cloud Strategies (AWS, Azure)
 ```
 
-**Patterns:**
-- Saga Pattern for Distributed Transactions
-- Circuit Breaker & Retry Policies
-- API Versioning Strategies
-- Database per Service
-- Eventual Consistency
+**Battle-Tested Patterns:**
+- 🔄 **Saga Pattern** for distributed transactions
+- 🔌 **Circuit Breaker** with resilience4j
+- 📌 **API Versioning** with backward compatibility
+- 💾 **Database per Service** for true independence
+- ☸️ **GitOps with ArgoCD** for seamless deployments
 
 </td>
 <td width="50%" valign="top">
 
-### 🧪 Quality Assurance
+### 🧪 Quality Assurance | **90% Coverage in Production**
 
 ```yaml
 ✅ Testing Excellence:
-  ✅ 85-96% Test Coverage
+  ✅ 90% Test Coverage (ApiSpring Production)
   ✅ TDD/BDD Methodologies
-  ✅ End-to-End Testing
+  ✅ End-to-End Testing (E2E)
   ✅ Integration Testing
   ✅ Unit Testing
-  ✅ Performance Testing
-  ✅ Security Testing
+  ✅ Performance Testing (K6, Artillery)
+  ✅ Security Testing (SAST/DAST)
   ✅ Mutation Testing
 ```
 
-**Frameworks:**
-- Jest / Vitest for Unit Tests
-- Cypress / Playwright for E2E
-- K6 / Artillery for Load Tests
-- SonarQube for Code Quality
-- Codecov for Coverage Analysis
+**Real-World Testing:**
+- 🃏 **Jest / Vitest** for comprehensive unit tests
+- 🌲 **Cypress / Playwright** for reliable E2E automation
+- 📊 **K6 / Artillery** for production-grade load tests
+- 🔍 **SonarQube** maintaining A-grade code quality
+- 📈 **90% coverage** achieved in ApiSpring production system
 
 </td>
 </tr>
@@ -584,26 +685,28 @@ graph LR
 <!-- Impact Metrics Dashboard -->
 <div align="center">
 
-## 📈 Impact & Achievements
-
-</div>
+## 📈 Proven Impact & Measurable Achievements
 
 <div align="center">
 
-### 🎯 Measurable Results Delivered
+**💼 Delivering Exceptional Value Across Fintech, SaaS & Cybersecurity**
 
-| Metric | Achievement | Evidence | Projects |
-|--------|-------------|----------|----------|
-| ⚡ **Performance** | 40-85% Faster | Lighthouse Reports | Vitale, ShopFast, ApiSpring |
-| 🧪 **Test Coverage** | 85-96% | Coverage Reports | All Enterprise Projects |
-| 💡 **Lighthouse Score** | 95+ | Google PageSpeed | Vitale, ShopFast |
-| 🔐 **Security** | 100% OWASP | Security Audits | Cascavel, PENT |
-| 📦 **Bundle Size** | -60% Reduction | Webpack Analysis | ShopFast Optimization |
-| ⭐ **Open Source** | 11+ Stars | GitHub | Security Frameworks |
-| 🏆 **Code Quality** | A Rating | SonarQube | Production Systems |
-| 🚀 **CI/CD Success** | 99%+ | Pipeline Metrics | All Projects |
-| 👥 **Team Impact** | 5+ Mentored | Direct Reports | RET TECNOLOGIA |
-| 📚 **Documentation** | 100% Coverage | API Docs | All APIs |
+</div>
+
+### 🎯 Real Numbers, Real Impact
+
+| Metric | Achievement | Evidence | Impact |
+|:-------|:------------|:---------|:-------|
+| ⚡ **Time-to-Market** | **-35% Reduction** | Production Metrics | 5+ years delivery |
+| 💰 **ROI** | **3x ROI** | Business Results | Fintech & SaaS |
+| 💡 **Lighthouse** | **100/100** | Cotação PRO | Perfect score |
+| 🔐 **Security** | **-38% CVEs** | SAST/DAST Pipelines | Production systems |
+| ☸️ **Uptime** | **99.95%** | AWS-K8s-ArgoCD | High availability |
+| ⭐ **Open Source** | **Cascavel 9★** | GitHub | 12 countries |
+| 📜 **Certifications** | **30+ International** | Professional Certs | AWS, K8s, Security |
+| 🚀 **CI/CD** | **SLSA 3** | Signed Pipelines | Supply chain security |
+| 📊 **Test Coverage** | **90%** | ApiSpring | Spring Boot platform |
+| 🌎 **Languages** | **Trilingual** | PT, EN, ES | Global communication |
 
 </div>
 
@@ -614,21 +717,36 @@ graph LR
 <!-- Certifications -->
 <div align="center">
 
-## 🎓 Certifications & Learning
-
-</div>
+## 🎓 Professional Certifications & Continuous Learning
 
 <div align="center">
 
-![AWS](https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-Certified-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Certified-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Certified-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+**📜 30+ International Certifications | 🌐 Cloud, Security & DevOps Expert**
 
-![OWASP](https://img.shields.io/badge/OWASP-Security-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-Infrastructure-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-Scrum_Master-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white)
+</div>
+
+### ☁️ Cloud & Infrastructure
+
+![AWS](https://img.shields.io/badge/☁️_AWS-Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/☁️_Azure-Certified-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/🐳_Docker-Certified-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/☸️_Kubernetes-Certified-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### 🔐 Security & DevSecOps
+
+![OWASP](https://img.shields.io/badge/🛡️_OWASP-Security-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![SSDLC](https://img.shields.io/badge/🔐_SSDLC-Secure_Development-red?style=for-the-badge)
+![Open Finance](https://img.shields.io/badge/💰_Open_Finance-Specialist-00C853?style=for-the-badge)
+![MLOps](https://img.shields.io/badge/🤖_MLOps-ML_Operations-FF6F00?style=for-the-badge)
+
+![Terraform](https://img.shields.io/badge/🏗️_Terraform-Infrastructure-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/☸️_ArgoCD-GitOps-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Serverless](https://img.shields.io/badge/⚡_Serverless-Cloud_Functions-FD5750?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/🔷_GraphQL-API_Design-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+<br/>
+
+> **💡 Fun Fact**: Backed by 30+ international certifications spanning AWS, Kubernetes, Security, DevOps & Software Architecture. Continuous learner investing 10+ hours/week in staying cutting-edge.
 
 </div>
 
@@ -645,7 +763,7 @@ graph LR
 
 ```mermaid
 mindmap
-  root((Gabriel's Tech Stack 2025))
+  root((Gabriel's Tech Vision 2025))
     🛡️ DevSecOps Mastery
       Cloud Security Automation
       Zero Trust Implementation
@@ -667,11 +785,11 @@ mindmap
       Service Mesh (Istio/Linkerd)
       GraphQL Federation
       Micro-Frontend Architecture
-    🚀 Emerging Tech
+    🚀 Emerging Technologies
       AI/ML Production Integration
       Blockchain & Web3
       IoT Security
-      Quantum-Ready Crypto
+      Quantum-Ready Cryptography
       Metaverse Development
       AR/VR Integration
     📊 Data & Analytics
@@ -684,7 +802,7 @@ mindmap
 ```
 
 <details>
-<summary>📅 <b>Quarterly Goals Breakdown</b></summary>
+<summary>📅 <b>View Quarterly Goals Breakdown</b></summary>
 
 <br/>
 
@@ -698,19 +816,19 @@ mindmap
 - 🎯 Launch Personal Tech Blog
 - 🚀 Open Source Contribution: 20+ PRs
 - 📊 Implement Real-time Analytics Dashboard
-- 🔐 Security Audit & Penetration Testing Projects
+- 🔐 Lead Security Audit & Penetration Testing Projects
 
 **Q3 2025 (Jul-Sep):**
-- ⚡ Performance Optimization: 50% across all services
-- 🤖 AI/ML Integration in Production
-- 🎓 Advanced Cloud Architecture Course
+- ⚡ Deliver 50% Performance Improvements Across All Services
+- 🤖 Deploy AI/ML Models to Production
+- 🎓 Complete Advanced Cloud Architecture Course
 - 📈 Scale Infrastructure to Handle 10x Traffic
 
 **Q4 2025 (Oct-Dec):**
-- 🌟 Conference Speaking Opportunities
-- 📚 Write Technical E-book on DevSecOps
-- 🏆 Mentorship Program: Train 10+ Developers
-- 🚀 Launch SaaS Product
+- 🌟 Speak at 2+ Tech Conferences
+- 📚 Write Technical E-book on DevSecOps Best Practices
+- 🏆 Launch Developer Mentorship Program (10+ mentees)
+- 🚀 Launch Side Project / SaaS Product
 
 </details>
 
@@ -729,10 +847,10 @@ mindmap
 
 ```mermaid
 gantt
-    title Career Milestones & Key Projects
+    title Career Milestones & Key Projects Timeline
     dateFormat YYYY-MM
 
-    section Career Growth
+    section Professional Growth
     RET TECNOLOGIA LTDA - Senior Developer :active, 2021-01, 2025-12
     DevSecOps Specialization :crit, 2022-01, 2025-12
     Performance Engineering Expertise :crit, 2022-06, 2025-12
@@ -740,18 +858,18 @@ gantt
 
     section Major Projects
     Cascavel Security Framework (9⭐) :done, 2023-01, 2023-06
-    ApiSpring E-commerce Platform :done, 2023-03, 2023-09
-    Vitale B2B Platform (+40% perf) :done, 2023-06, 2024-01
-    ShopFast Optimization (+85% perf) :done, 2023-09, 2024-03
-    PENT Security Toolkit (2⭐) :done, 2024-01, 2024-06
-    Microservices Migration :active, 2024-06, 2025-03
+    ApiSpring E-commerce Platform (90%) :done, 2023-03, 2023-09
+    Vitale Medical E-commerce (1⭐) :done, 2023-06, 2024-01
+    Cotação PRO FX PWA (100/100) :done, 2023-09, 2024-03
+    ShopFast E-commerce Study :done, 2024-01, 2024-06
+    AWS-Kubernetes-ArgoCD Migration :active, 2024-06, 2025-03
 
     section Key Achievements
-    85-96% Test Coverage Standard :milestone, 2023-06, 0d
-    OWASP Compliance Certification :milestone, 2023-09, 0d
-    11+ GitHub Stars Milestone :milestone, 2024-01, 0d
-    40-85% Performance Improvements :milestone, 2024-06, 0d
-    Team Lead Promotion :milestone, 2024-09, 0d
+    Cascavel 12 Countries Adoption :milestone, 2023-06, 0d
+    30+ International Certifications :milestone, 2023-09, 0d
+    Cotação PRO 100/100 Lighthouse :milestone, 2024-01, 0d
+    99.95% Uptime Achievement :milestone, 2024-06, 0d
+    3x ROI Delivery (Fintech & SaaS) :milestone, 2024-09, 0d
 ```
 
 </div>
@@ -760,16 +878,25 @@ gantt
 
 <br/>
 
-<!-- Contribution Snake Animation -->
+<!-- Contribution Visualization -->
 <div align="center">
 
-## 🐍 Contribution Activity
+## 📊 Contribution Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/glferreira-devsecops/glferreira-devsecops/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/glferreira-devsecops/glferreira-devsecops/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/glferreira-devsecops/glferreira-devsecops/blob/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="http://ghchart.rshah.org/3B82F6/glferreira-devsecops" alt="GitHub Contribution Chart" width="95%"/>
+
+<br/><br/>
+
+<a href="https://skyline.github.com/glferreira-devsecops/2024" target="_blank">
+  <img src="https://img.shields.io/badge/🏙️_View_2024_Skyline-Interactive_3D-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline 2024"/>
+</a>
+<a href="https://skyline.github.com/glferreira-devsecops/2023" target="_blank">
+  <img src="https://img.shields.io/badge/🏙️_View_2023_Skyline-Interactive_3D-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline 2023"/>
+</a>
+
+<br/><br/>
+
+<sub>💡 Click above to explore my GitHub contributions in stunning 3D visualization</sub>
 
 </div>
 
@@ -790,27 +917,30 @@ gantt
 
 ### 🎯 Interests & Hobbies
 
-- 🎸 **Music:** Playing guitar and producing electronic music
-- 📚 **Reading:** Sci-fi novels and tech blogs
-- ☕ **Coffee:** Specialty coffee enthusiast (V60, Aeropress)
-- 🎮 **Gaming:** Strategy games and competitive FPS
-- 🏃 **Fitness:** Running and CrossFit
-- 🌍 **Travel:** Exploring new cities and cultures
-- 📷 **Photography:** Urban and landscape photography
-- 🎬 **Movies:** Christopher Nolan and Denis Villeneuve fan
+- 🎸 **Music:** Playing guitar & producing electronic music
+- 📚 **Reading:** Sci-fi novels, tech blogs & system design books
+- ☕ **Coffee:** Specialty coffee enthusiast (V60, Aeropress, Chemex)
+- 🎮 **Gaming:** Strategy games & competitive FPS
+- 🏃 **Fitness:** Running, CrossFit & yoga
+- 🌍 **Travel:** Exploring new cities, cultures & cuisines
+- 📷 **Photography:** Urban & landscape photography
+- 🎬 **Movies:** Christopher Nolan & Denis Villeneuve fan
 
 </td>
 <td width="50%" valign="top">
 
-### 💭 Random Dev Quotes
+### 💭 Favorite Dev Quotes
 
-> "First, solve the problem. Then, write the code." - John Johnson
+> "First, solve the problem. Then, write the code."
+> — *John Johnson*
 
-> "Code is like humor. When you have to explain it, it's bad." - Cory House
+> "Code is like humor. When you have to explain it, it's bad."
+> — *Cory House*
 
-> "The best error message is the one that never shows up." - Thomas Fuchs
+> "The best error message is the one that never shows up."
+> — *Thomas Fuchs*
 
-### 📊 This Week's Focus
+### 📊 This Week's Development Focus
 
 ```text
 TypeScript   ████████████████░░░   85%
@@ -831,42 +961,48 @@ Coffee       ██████████████████░   95% ☕
 <!-- Contact & Connect Section -->
 <div align="center">
 
-## 📫 Let's Connect & Collaborate!
+## 📫 Let's Connect & Build Something Amazing Together!
+
+<div align="center">
+
+**🤝 Open to Remote Opportunities | 💼 Available for Consulting | 🌍 Working Globally in PT, EN & ES**
+
+</div>
 
 </div>
 
 <div align="center">
 
-### 💬 I'm Open For
+### 💬 I'm Currently Open For
 
 ```mermaid
 graph TD
-    A[Gabriel Lima] --> B[💼 Full-Time Opportunities]
-    A --> C[🤝 Consulting Projects]
+    A[Gabriel Lima Ferreira] --> B[💼 Full-Time Opportunities]
+    A --> C[🤝 Consulting & Contract Work]
     A --> D[🎤 Speaking Engagements]
-    A --> E[📝 Technical Writing]
+    A --> E[📝 Technical Writing & Blogging]
     A --> F[🌟 Open Source Collaboration]
-    A --> G[🎓 Mentorship]
+    A --> G[🎓 Mentorship & Teaching]
 
     B --> H[Senior/Lead DevSecOps Engineer]
     B --> I[Solutions Architect]
-    B --> J[Technical Lead]
+    B --> J[Technical Lead / Engineering Manager]
 
-    C --> K[Performance Optimization]
-    C --> L[Security Audits]
-    C --> M[Architecture Reviews]
+    C --> K[Performance Optimization Projects]
+    C --> L[Security Audits & Assessments]
+    C --> M[Architecture Reviews & Consulting]
 
     D --> N[DevSecOps Best Practices]
-    D --> O[Performance Engineering]
+    D --> O[Performance Engineering Talks]
     D --> P[Cloud Native Architecture]
 
-    style A fill:#3B82F6
-    style B fill:#10B981
-    style C fill:#F59E0B
-    style D fill:#EF4444
-    style E fill:#8B5CF6
-    style F fill:#06B6D4
-    style G fill:#EC4899
+    style A fill:#3B82F6,stroke:#2563EB,stroke-width:3px,color:#fff
+    style B fill:#10B981,stroke:#059669,stroke-width:2px
+    style C fill:#F59E0B,stroke:#D97706,stroke-width:2px
+    style D fill:#EF4444,stroke:#DC2626,stroke-width:2px
+    style E fill:#8B5CF6,stroke:#7C3AED,stroke-width:2px
+    style F fill:#06B6D4,stroke:#0891B2,stroke-width:2px
+    style G fill:#EC4899,stroke:#DB2777,stroke-width:2px
 ```
 
 </div>
@@ -877,10 +1013,20 @@ graph TD
 
 ### 🌐 Find Me Online
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/devferreirag/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000)](https://github.com/glferreira-devsecops)
-[![Email](https://img.shields.io/badge/Email-Drop_a_Message-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&labelColor=0078D4)](mailto:contato.ferreirag@outlook.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722)](#)
+<p>
+  <a href="https://www.linkedin.com/in/devferreirag/" target="_blank">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/glferreira-devsecops" target="_blank">
+    <img src="https://img.shields.io/badge/🐙_GitHub-Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:contato.ferreirag@outlook.com">
+    <img src="https://img.shields.io/badge/✉️_Email-Drop_a_Message-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
 </div>
 
@@ -890,9 +1036,11 @@ graph TD
 
 ### 📊 Profile Stats
 
-![](https://komarev.com/ghpvc/?username=glferreira-devsecops&label=Profile+Views&color=blueviolet&style=for-the-badge)
-![](https://img.shields.io/github/followers/glferreira-devsecops?label=Followers&style=for-the-badge&color=blue&logo=github)
-![](https://img.shields.io/github/stars/glferreira-devsecops?label=Total+Stars&style=for-the-badge&color=yellow&logo=github)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=glferreira-devsecops&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/glferreira-devsecops?label=Followers&style=for-the-badge&color=blue&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/glferreira-devsecops?label=Total+Stars&style=for-the-badge&color=yellow&logo=github" alt="Total Stars"/>
+</p>
 
 </div>
 
@@ -908,7 +1056,7 @@ graph TD
 
 ![Leadership](https://img.shields.io/badge/🚀_Technical_Leadership-orange?style=for-the-badge)
 ![Consulting](https://img.shields.io/badge/💼_Consulting_Projects-red?style=for-the-badge)
-![OpenSource](https://img.shields.io/badge/🤝_Open_Source-green?style=for-the-badge)
+![OpenSource](https://img.shields.io/badge/🤝_Open_Source_Contributor-green?style=for-the-badge)
 
 </div>
 
@@ -925,12 +1073,51 @@ graph TD
 
 <div align="center">
 
-**⚡ Crafted with passion using Markdown, GitHub APIs & cutting-edge visualization tools**
+**⚡ Crafted with passion by Gabriel "Gringo" Lima Ferreira**
 
-**💙 Built with love in Rio de Janeiro, Brazil 🇧🇷**
+**💙 Made with love in Rio de Janeiro, Brazil 🇧🇷**
 
 ---
 
-<sub>Last Updated: 2025 | Always learning, always building, always improving 🚀</sub>
+### 📊 **Profile Statistics**
+
+![](https://komarev.com/ghpvc/?username=glferreira-devsecops&label=Profile+Views&color=3B82F6&style=flat-square)
+![](https://img.shields.io/github/followers/glferreira-devsecops?label=Followers&style=flat-square&color=3B82F6)
+![](https://img.shields.io/github/stars/glferreira-devsecops?label=Total+Stars&style=flat-square&color=3B82F6)
+
+---
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🚀 **Ready to Collaborate?**
+
+I'm currently accepting:
+- 💼 Full-time remote positions
+- 🤝 Consulting & contract work
+- 🎤 Speaking engagements
+- 🌟 Open source collaborations
+
+</td>
+<td align="center" width="50%">
+
+### 💡 **What I Bring**
+
+- ⚡ 5+ years proven track record
+- 🌍 Trilingual (PT, EN, ES)
+- 🎯 35% faster time-to-market
+- 💰 3x ROI for clients
+- 🛡️ Security-first mindset
+
+</td>
+</tr>
+</table>
+
+---
+
+<sub>📅 Last Updated: January 2025 | Always learning, always building, always improving 🚀</sub>
+
+<sub>**🔐 Open to:** Senior Back-End | Senior Full-Stack | Software Architect | DevSecOps Lead</sub>
 
 </div>
