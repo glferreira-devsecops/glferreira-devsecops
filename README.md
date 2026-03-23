@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://www.rettecnologia.org">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Gabriel+%22Gringo%22+Ferreira;Founder+%26+Engineering+Director;RET+Tecnologia+%E2%80%94+Security+by+Design" alt="Typing SVG Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Gabriel+%22Gringo%22+Ferreira;Founder+%26+Engineering+Director;RET+Tecnologia+%E2%80%94+Security+by+Design" alt="Typing SVG Header" />
 </a>
 
 **Engenharia de Software de Alta Performance & Ciberseguranca Ofensiva**
@@ -190,18 +190,6 @@ IA Generativa, WhatsApp API, Pix, Agentic AI, LangChain, RAG
 > Score **100/100 Lighthouse**, PWA nativo, SEO nuclear e DevSecOps pipeline completo.
 >
 > `Next.js 15` `TypeScript` `Vercel Edge` `CSP Strict`
-
-> **[Cotacao PRO — Fintech PWA](https://github.com/glferreira-devsecops/Dolar)**
-> PWA de cambio em tempo real com **100/100 Lighthouse** e First Paint < 0.8s.
->
-> ![Stars](https://img.shields.io/github/stars/glferreira-devsecops/Dolar?style=flat-square&color=58a6ff&label=Stars) ![Forks](https://img.shields.io/github/forks/glferreira-devsecops/Dolar?style=flat-square&color=3fb950&label=Forks)
-> `React 18` `WebSocket` `Zustand` `PWA Offline-First`
-
-> **[ApiSpring — Enterprise E-commerce](https://github.com/glferreira-devsecops/beckendcode)**
-> Plataforma enterprise com **90% test coverage** e grade A no SonarQube.
->
-> ![Stars](https://img.shields.io/github/stars/glferreira-devsecops/beckendcode?style=flat-square&color=58a6ff&label=Stars) ![Forks](https://img.shields.io/github/forks/glferreira-devsecops/beckendcode?style=flat-square&color=3fb950&label=Forks)
-> `Java 21` `Spring Boot 3` `Kafka` `CQRS` `PostgreSQL`
 
 ---
 
