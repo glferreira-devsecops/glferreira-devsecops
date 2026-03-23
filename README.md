@@ -1,14 +1,15 @@
 <div align="center">
 
-# Gabriel "Gringo" Ferreira
+<a href="https://www.rettecnologia.org">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Gabriel+%22Gringo%22+Ferreira;Founder+%26+Engineering+Director;RET+Tecnologia+%E2%80%94+Security+by+Design" alt="Typing SVG Header" />
+</a>
 
-### Founder & Engineering Director — [RET Tecnologia](https://www.rettecnologia.org)
-
-**Engenharia de Software de Alta Performance & Cibersegurança Ofensiva**
+**Engenharia de Software de Alta Performance & Ciberseguranca Ofensiva**
 
 [![Site](https://img.shields.io/badge/rettecnologia.org-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff)](https://www.rettecnologia.org)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/devferreirag/)
 [![Dev.to](https://img.shields.io/badge/56_Artigos-0d1117?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/rettecnologia)
+[![Email](https://img.shields.io/badge/contato@rettecnologia.org-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:contato@rettecnologia.org)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/5521979364932)
 
 </div>
@@ -50,11 +51,39 @@ class GabrielFerreira:
 
 > Construimos sistemas blindados, realizamos pentests e protegemos empresas contra ameacas digitais.
 
-- **Sistemas Web** — Next.js, React, .NET, TypeScript
-- **Ciberseguranca** — Pentest, OSINT, Red Team, Vulnerability Assessment
-- **DevSecOps** — Kubernetes, ArgoCD, Zero Trust, SAST/DAST
-- **Automacoes** — IA Generativa, WhatsApp API, Pix, Agentic AI
-- **Cloud Native** — AWS, Azure, Serverless, Edge Computing
+<table>
+<tr><td width="50%" valign="top">
+
+**🛡️ Ciberseguranca**
+
+Pentest, OSINT, Red Team, Vulnerability Assessment, Threat Modeling
+
+</td><td width="50%" valign="top">
+
+**⚡ Sistemas Web**
+
+Next.js, React, .NET, TypeScript, PWA, Micro-Frontends
+
+</td></tr>
+<tr><td width="50%" valign="top">
+
+**☁️ Cloud & DevSecOps**
+
+AWS, Azure, Kubernetes, ArgoCD, Zero Trust, SAST/DAST, Terraform
+
+</td><td width="50%" valign="top">
+
+**🤖 Automacoes & AI**
+
+IA Generativa, WhatsApp API, Pix, Agentic AI, LangChain, RAG
+
+</td></tr>
+<tr><td colspan="2" align="center">
+
+**🌐 Cloud Native** — Serverless, Edge Computing, Multi-Region, Service Mesh
+
+</td></tr>
+</table>
 
 ---
 
@@ -143,6 +172,7 @@ class GabrielFerreira:
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
 ![New Relic](https://img.shields.io/badge/New_Relic-1CE783?style=flat-square&logo=newrelic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
 </details>
 
@@ -152,46 +182,56 @@ class GabrielFerreira:
 
 > **[Cascavel — Offensive Security Framework](https://github.com/glferreira-devsecops/superpowers)**
 > Framework de seguranca ofensiva adotado em **12 paises** por profissionais de pentest.
+>
+> ![Stars](https://img.shields.io/github/stars/glferreira-devsecops/superpowers?style=flat-square&color=58a6ff&label=Stars) ![Forks](https://img.shields.io/github/forks/glferreira-devsecops/superpowers?style=flat-square&color=3fb950&label=Forks)
 > `Python 3.11+` `OWASP Top 10` `Modular CLI` `500+ downloads`
 
 > **[RET Tecnologia — Site Corporativo](https://www.rettecnologia.org)**
 > Score **100/100 Lighthouse**, PWA nativo, SEO nuclear e DevSecOps pipeline completo.
+>
 > `Next.js 15` `TypeScript` `Vercel Edge` `CSP Strict`
 
 > **[Cotacao PRO — Fintech PWA](https://github.com/glferreira-devsecops/Dolar)**
 > PWA de cambio em tempo real com **100/100 Lighthouse** e First Paint < 0.8s.
+>
+> ![Stars](https://img.shields.io/github/stars/glferreira-devsecops/Dolar?style=flat-square&color=58a6ff&label=Stars) ![Forks](https://img.shields.io/github/forks/glferreira-devsecops/Dolar?style=flat-square&color=3fb950&label=Forks)
 > `React 18` `WebSocket` `Zustand` `PWA Offline-First`
 
 > **[ApiSpring — Enterprise E-commerce](https://github.com/glferreira-devsecops/beckendcode)**
 > Plataforma enterprise com **90% test coverage** e grade A no SonarQube.
+>
+> ![Stars](https://img.shields.io/github/stars/glferreira-devsecops/beckendcode?style=flat-square&color=58a6ff&label=Stars) ![Forks](https://img.shields.io/github/forks/glferreira-devsecops/beckendcode?style=flat-square&color=3fb950&label=Forks)
 > `Java 21` `Spring Boot 3` `Kafka` `CQRS` `PostgreSQL`
 
 ---
 
 ### GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=glferreira-devsecops&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glferreira-devsecops&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=glferreira-devsecops&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&count_private=true" alt="GitHub Stats" />
+<p align="center">
+  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=glferreira-devsecops&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glferreira-devsecops&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=glferreira-devsecops&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
-
-</div>
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=glferreira-devsecops&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" alt="Activity Graph" />
+</p>
 
 ---
 
 ### Pilares de Excelencia
 
-- **DevSecOps** — SAST/DAST, SLSA 3, Zero Trust, Supply Chain Security (-38% CVEs)
-- **Performance** — 100/100 Lighthouse, Sub-100ms APIs, Edge Computing (35% faster TTM)
-- **Arquitetura** — Microservices, Event-Driven, DDD, CQRS, Service Mesh (99.95% Uptime)
-- **QA & Compliance** — 90%+ Test Coverage, SOC2, ISO 27001, LGPD, GDPR
+<p align="center">
+  <img src="https://img.shields.io/badge/DevSecOps-SLSA_3_|_Zero_Trust_|_−38%25_CVEs-0d1117?style=for-the-badge&labelColor=58a6ff" alt="DevSecOps" />
+  <img src="https://img.shields.io/badge/Performance-100/100_Lighthouse_|_Sub_100ms-0d1117?style=for-the-badge&labelColor=3fb950" alt="Performance" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Arquitetura-DDD_|_CQRS_|_Event--Driven_|_99.95%25_Up-0d1117?style=for-the-badge&labelColor=d29922" alt="Arquitetura" />
+  <img src="https://img.shields.io/badge/QA_&_Compliance-90%25+_Coverage_|_SOC2_|_LGPD-0d1117?style=for-the-badge&labelColor=f85149" alt="QA & Compliance" />
+</p>
 
 ---
 
@@ -361,5 +401,7 @@ mindmap
 `PT-BR` `EN-US` `ES` — Rio de Janeiro, Brasil — GMT-3
 
 *"Security by Design, not as an afterthought."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=glferreira-devsecops&color=58a6ff&style=flat-square&label=Profile+Views)
 
 </div>
