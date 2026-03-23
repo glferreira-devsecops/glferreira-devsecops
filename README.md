@@ -1,9 +1,10 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
 <a href="https://www.rettecnologia.org">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1e25&height=220&section=header&text=Gabriel%20%22Gringo%22%20Ferreira&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Founder%20%26%20Engineering%20Director%20%E2%80%94%20RET%20Tecnologia&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1e25&height=220&section=header&text=Gabriel%20%22Gringo%22%20Ferreira&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Founder%20%26%20Engineering%20Director%20—%20RET%20Tecnologia&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
 </a>
+
+<br/>
 
 [![Site](https://img.shields.io/badge/rettecnologia.org-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff)](https://www.rettecnologia.org)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/devferreirag/)
@@ -50,7 +51,7 @@ class GabrielFerreira:
 | 🖥️ Uptime SLA | **99.95%** |
 | 🏆 Lighthouse | **100/100** |
 | 🌍 Cascavel Framework | **12 países** |
-| 📜 Certificações | **30+ internacionais** |
+| 📜 Certificações | **47 verificadas** |
 | ✍️ Artigos Técnicos | **56 publicados** |
 
 </td>
@@ -61,30 +62,45 @@ class GabrielFerreira:
 
 ### 🛡️ O que a RET Tecnologia faz
 
-> **Engenharia de software de alta performance e cibersegurança ofensiva.**  
+> **Engenharia de software de alta performance e cibersegurança ofensiva.**
 > Construímos sistemas blindados, realizamos pentests e protegemos empresas contra ameaças digitais.
 
 <table>
 <tr>
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/Sistemas_Web-161b22?style=flat-square&logo=nextdotjs&logoColor=white" /><br/>
-<sub>Next.js · React · .NET</sub>
+
+🌐 **Sistemas Web**
+
+Next.js · React · .NET
+
 </td>
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/Cibersegurança-161b22?style=flat-square&logo=hackaday&logoColor=red" /><br/>
-<sub>Pentest · OSINT · Red Team</sub>
+
+🔒 **Cibersegurança**
+
+Pentest · OSINT · Red Team
+
 </td>
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/DevSecOps-161b22?style=flat-square&logo=kubernetes&logoColor=326CE5" /><br/>
-<sub>K8s · ArgoCD · Zero Trust</sub>
+
+☸️ **DevSecOps**
+
+K8s · ArgoCD · Zero Trust
+
 </td>
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/Automações-161b22?style=flat-square&logo=zapier&logoColor=FF4A00" /><br/>
-<sub>IA · WhatsApp · Pix</sub>
+
+🤖 **Automações**
+
+IA · WhatsApp · Pix
+
 </td>
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/Cloud_Native-161b22?style=flat-square&logo=amazonaws&logoColor=FF9900" /><br/>
-<sub>AWS · Azure · Serverless</sub>
+
+☁️ **Cloud Native**
+
+AWS · Azure · Serverless
+
 </td>
 </tr>
 </table>
@@ -97,9 +113,10 @@ class GabrielFerreira:
 <summary><b>⚙️ Backend & Runtime</b></summary>
 <br/>
 
-![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![.NET 8](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Java 21](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -112,10 +129,10 @@ class GabrielFerreira:
 <br/>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![React 18](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js 15](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vue 3](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
 </details>
@@ -131,6 +148,8 @@ class GabrielFerreira:
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white)
+![Istio](https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white)
 
 </details>
 
@@ -143,7 +162,9 @@ class GabrielFerreira:
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
-![Vault](https://img.shields.io/badge/HashiCorp_Vault-FFEC6E?style=flat-square&logo=vault&logoColor=black)
+![HashiCorp Vault](https://img.shields.io/badge/Vault-FFEC6E?style=flat-square&logo=vault&logoColor=black)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square)
 
 </details>
 
@@ -157,17 +178,21 @@ class GabrielFerreira:
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 </details>
 
 <details>
-<summary><b>📡 Observabilidade</b></summary>
+<summary><b>📡 Observabilidade & AI</b></summary>
 <br/>
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+![New Relic](https://img.shields.io/badge/New_Relic-1CE783?style=flat-square&logo=newrelic&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6F00?style=flat-square)
+![Gen AI](https://img.shields.io/badge/Generative_AI-4285F4?style=flat-square&logo=google&logoColor=white)
 
 </details>
 
@@ -179,15 +204,19 @@ class GabrielFerreira:
 <tr>
 <td width="50%">
 
-**[🔒 Cascavel — Offensive Security Framework](https://github.com/glferreira-devsecops/superpowers)**  
-Framework de segurança ofensiva adotado em **12 países** por profissionais de pentest.  
+**[🔒 Cascavel — Offensive Security Framework](https://github.com/glferreira-devsecops/superpowers)**
+
+Framework de segurança ofensiva adotado em **12 países** por profissionais de pentest.
+
 `Python 3.11+` `OWASP Top 10` `Modular CLI` `500+ downloads`
 
 </td>
 <td width="50%">
 
-**[🌐 RET Tecnologia — Site Corporativo](https://www.rettecnologia.org)**  
-Site com score **100/100 Lighthouse**, PWA nativo, SEO nuclear e DevSecOps pipeline.  
+**[🌐 RET Tecnologia — Site Corporativo](https://www.rettecnologia.org)**
+
+Site com score **100/100 Lighthouse**, PWA nativo, SEO nuclear e DevSecOps pipeline.
+
 `Next.js 15` `TypeScript` `Vercel Edge` `CSP Strict`
 
 </td>
@@ -195,16 +224,20 @@ Site com score **100/100 Lighthouse**, PWA nativo, SEO nuclear e DevSecOps pipel
 <tr>
 <td width="50%">
 
-**[💱 Cotação PRO — Fintech PWA](https://github.com/glferreira-devsecops/cotacao-pro)**  
-PWA de câmbio em tempo real com **100/100 Lighthouse** e < 0.8s First Paint.  
+**[💱 Cotação PRO — Fintech PWA](https://github.com/glferreira-devsecops/Dolar)**
+
+PWA de câmbio em tempo real com **100/100 Lighthouse** e < 0.8s First Paint.
+
 `React 18` `WebSocket` `Zustand` `PWA Offline-First`
 
 </td>
 <td width="50%">
 
-**[🚀 ApiSpring — Enterprise E-commerce](https://github.com/glferreira-devsecops/apispring)**  
-Plataforma enterprise com **90% test coverage** e grade A no SonarQube.  
-`Java 21` `Spring Boot 3` `Kafka` `CQRS` `PostgreSQL`
+**[🚀 Casa dos Lobos — Web Platform](https://github.com/glferreira-devsecops/Casadoslobos)**
+
+Plataforma web completa com design premium e arquitetura moderna.
+
+`TypeScript` `React` `Node.js` `Full-Stack`
 
 </td>
 </tr>
@@ -239,26 +272,46 @@ Plataforma enterprise com **90% test coverage** e grade A no SonarQube.
 <tr>
 <td width="25%" align="center">
 
-**🛡️ DevSecOps**  
-<sub>SAST/DAST · SLSA 3 · Zero Trust<br/>Supply Chain Security<br/>-38% CVEs em produção</sub>
+**🛡️ DevSecOps**
+
+SAST/DAST · SLSA 3 · Zero Trust
+
+Supply Chain Security
+
+-38% CVEs em produção
 
 </td>
 <td width="25%" align="center">
 
-**⚡ Performance**  
-<sub>100/100 Lighthouse · Sub-100ms APIs<br/>Edge Computing · CDN Multi-Tier<br/>35% faster TTM</sub>
+**⚡ Performance**
+
+100/100 Lighthouse · Sub-100ms APIs
+
+Edge Computing · CDN Multi-Tier
+
+35% faster TTM
 
 </td>
 <td width="25%" align="center">
 
-**🏗️ Arquitetura**  
-<sub>Microservices · Event-Driven<br/>DDD · CQRS · Service Mesh<br/>99.95% Uptime SLA</sub>
+**🏗️ Arquitetura**
+
+Microservices · Event-Driven
+
+DDD · CQRS · Service Mesh
+
+99.95% Uptime SLA
 
 </td>
 <td width="25%" align="center">
 
-**🧪 QA & Compliance**  
-<sub>90%+ Test Coverage · SOC2<br/>ISO 27001 · LGPD · GDPR<br/>Pipeline 100% automatizado</sub>
+**🧪 QA & Compliance**
+
+90%+ Test Coverage · SOC2
+
+ISO 27001 · LGPD · GDPR
+
+Pipeline 100% automatizado
 
 </td>
 </tr>
@@ -266,41 +319,115 @@ Plataforma enterprise com **90% test coverage** e grade A no SonarQube.
 
 ---
 
-### 📜 Certificações
+### 📜 47 Certificações Verificadas
 
 <details>
-<summary><b>30+ Certificações Internacionais — Cloud, Security & DevOps</b></summary>
+<summary><b>☁️ Amazon Web Services (AWS) — 5 certificações</b></summary>
 <br/>
 
-**☁️ Cloud & Infrastructure**
+| Certificação | Credential ID |
+|:---|:---|
+| AWS Cloud Solutions Architect | `KWEBG9F9F3YW` |
+| Architecting Solutions on AWS | `MSJMGN0YB9PS` |
+| AWS Cloud Technical Essentials | `YCDFKB0T3NMS` |
+| AWS Educate Introduction to Cloud 101 | `48bf9edf-1341` |
+| AWS Educate Getting Started with Networking | `72bb0266-938a` |
 
-![AWS](https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-Administrator-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Certified_Associate-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-CKA/CKAD-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+</details>
 
-**🛡️ Security & DevSecOps**
+<details>
+<summary><b>🔵 Google — 3 certificações</b></summary>
+<br/>
 
-![OWASP](https://img.shields.io/badge/OWASP-Security_Certified-000000?style=flat-square&logo=owasp&logoColor=white)
-![SSDLC](https://img.shields.io/badge/SSDLC-Secure_Development-DC382D?style=flat-square)
-![Open Finance](https://img.shields.io/badge/Open_Finance-Specialist-00C853?style=flat-square)
-![MLOps](https://img.shields.io/badge/MLOps-ML_Operations-FF6F00?style=flat-square)
+| Certificação | Credential ID |
+|:---|:---|
+| Google Cybersecurity Professional Certificate | `ER2P9K9ZZPDT` |
+| Foundations: Data, Data, Everywhere | `YHM0HU9K0ENQ` |
+| Technical Support Fundamentals | `3OE7V38N5FPG` |
 
-**🚀 DevOps & Automation**
+</details>
 
-![Terraform](https://img.shields.io/badge/Terraform-IaC_Certified-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-GitOps_Expert-EF7B4D?style=flat-square&logo=argo&logoColor=white)
-![Serverless](https://img.shields.io/badge/Serverless-Cloud_Functions-FD5750?style=flat-square)
-![GraphQL](https://img.shields.io/badge/GraphQL-API_Design-E10098?style=flat-square&logo=graphql&logoColor=white)
+<details>
+<summary><b>🔷 IBM — 7 certificações</b></summary>
+<br/>
 
-**💻 Development**
+| Certificação | Credential ID |
+|:---|:---|
+| Fundamentals of Building AI Agents | `CR3EYME1GM84` |
+| Build Multimodal Generative AI Applications | `CIORW059ZIKI` |
+| Advanced RAG with Vector Databases | `8PQLML2TK0MY` |
+| Vector Databases for RAG | `XVJNB12HELUZ` |
+| Build RAG Applications: Get Started | `P6HZ9T2ZMD00` |
+| Develop Generative AI Applications | `JFC7E8AX7ONO` |
+| Introduction to Containers, Kubernetes & OpenShift V2 | `f4fb1a8b` |
 
-![.NET](https://img.shields.io/badge/.NET-Certified_Developer-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-SE/EE_Certified-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-Professional-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-Certified-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+</details>
 
-> 💡 **Lifelong Learner:** Investindo **10+ horas/semana** em tecnologias emergentes, contribuindo para open-source e escrevendo artigos técnicos.
+<details>
+<summary><b>🟣 Datadog — 2 certificações</b></summary>
+<br/>
+
+| Certificação | Credential ID |
+|:---|:---|
+| Core Skills Learning Path | `24d4c942-3ed3` |
+| Backend Engineer Learning Path | `e7b64af7-d795` |
+
+</details>
+
+<details>
+<summary><b>🟢 Certiprof — 7 certificações</b></summary>
+<br/>
+
+| Certificação | Credential ID |
+|:---|:---|
+| Business Intelligence Foundation 2025 | `4f6894fd-b732` |
+| Design Sprint Learner 2025 | `80523f04-7c0d` |
+| Business Agility 2025 | `34807de8-2a99` |
+| Scrum Foundation 2025 | `5c1dfd0f-d26c` |
+| Prompt Engineering Foundation 2025 | `c026c9a4-a9a7` |
+| Cybersecurity Awareness 2025 | `1aa355f4-daec` |
+| Remote Work 2025 | `406dc379-8700` |
+
+</details>
+
+<details>
+<summary><b>🔴 freeCodeCamp — 11 certificações</b></summary>
+<br/>
+
+| Certificação | Credential ID |
+|:---|:---|
+| Legacy Back End | `devferreirag-lbe` |
+| Legacy Front End | `devferreirag-lfe` |
+| Legacy Data Visualization | `devferreirag-ldv` |
+| Quality Assurance | `devferreirag-qa` |
+| Scientific Computing with Python | `devferreirag-scwp` |
+| Data Visualization | `devferreirag-dv` |
+| Front End Development Libraries | `devferreirag-fedl` |
+| JavaScript Algorithms & Data Structures | `devferreirag-jaads` |
+| Responsive Web Design | `devferreirag-rwd` |
+| Data Analysis with Python | `devferreirag-dawp` |
+| Back End Development and APIs | `devferreirag-bedaa` |
+
+</details>
+
+<details>
+<summary><b>🎓 Saylor University, HackerRank, FGV & Outros — 12 certificações</b></summary>
+<br/>
+
+| Certificação | Emissor | Credential ID |
+|:---|:---|:---|
+| HackerRank Certified Software Engineer | HackerRank | `efd8c98d3cfb` |
+| CS205: Building with AI | Saylor University | `8472278429GF` |
+| CS260: Intro to Cryptography & Network Security | Saylor University | `7510808637GF` |
+| CS403: Intro to Modern Database Systems | Saylor University | `8069241868GF` |
+| Segurança Digital (5h) | FGV | `14310708.20755` |
+| FluêncIA: IA Generativa | LinkedIn | `e96db41d` |
+| Statistics 101 | CognitiveClass | `9c09f233` |
+| College Algebra with Python | freeCodeCamp | `devferreirag-cawp` |
+| Fundamentals of Building AI Agents | Coursera | `abcb4510-b504` |
+| AWS Educate Intro to Generative AI | AWS | `dcc137e0-ad9a` |
+| Lifelong Learning 2025 | Certiprof | `37b46b1c-fd91` |
+| Beyond the Basics: Istio & IBM Cloud K8s | IBM | `4c70aa23b001` |
 
 </details>
 
@@ -312,7 +439,7 @@ Plataforma enterprise com **90% test coverage** e grade A no SonarQube.
 - 🔐 [OSINT: Sua Empresa Está Nua na Internet e Você Nem Sabe](https://dev.to/rettecnologia)
 - 🛡️ [Zero Trust Não É Buzzword: Como Implementar Segurança Real em 2026](https://dev.to/rettecnologia)
 - ⚡ [Edge Computing em 2026: A Arquitetura Que Transformou Latência em Lucro](https://dev.to/rettecnologia)
-- 🤖 [Arquitetura Agêntica: Como Colocar IA Autônoma em Produção Sem Explodir Seu Sistema](https://dev.to/rettecnologia)
+- 🤖 [Arquitetura Agêntica: Como Colocar IA Autônoma em Produção](https://dev.to/rettecnologia)
 - 🔒 [DevSecOps Shift-Left: Por Que 87% das Empresas Vão Sofrer Ataques em 2026](https://dev.to/rettecnologia)
 <!-- BLOG-POST-LIST:END -->
 
@@ -325,23 +452,23 @@ Plataforma enterprise com **90% test coverage** e grade A no SonarQube.
 ```mermaid
 mindmap
   root((RET 2026))
-    🛡️ Security
+    Security
       Red Team Operations
-      AI-Powered Threat Detection
-      Post-Quantum Cryptography
+      AI Threat Detection
+      Post-Quantum Crypto
       SLSA Level 4
-    ⚡ Engineering
+    Engineering
       Edge-First Architecture
       WebAssembly at Scale
       Agentic AI in Production
       Multi-Region Zero-Downtime
-    🚀 Growth
+    Growth
       Global SaaS Products
       Open Source Expansion
-      56+ Technical Articles
+      56 plus Technical Articles
       Community Leadership
-    🔬 R&D
-      AI/ML Pipelines (MLOps)
+    Research
+      AI ML Pipelines MLOps
       Quantum-Ready Systems
       Autonomous DevSecOps
       Real-time OSINT
@@ -361,13 +488,9 @@ mindmap
 
 ---
 
-<sub>
-
 `🌍 PT-BR · EN-US · ES` · `📍 Rio de Janeiro, Brasil` · `⏰ GMT-3 (BRT)`
 
 **"Security by Design, not as an afterthought."**
-
-</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1e25&height=100&section=footer" width="100%"/>
 
