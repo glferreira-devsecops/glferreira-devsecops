@@ -24,7 +24,7 @@ class GabrielFerreira:
     company    = "RET Tecnologia"
     location   = "Rio de Janeiro, Brasil"
     languages  = ["pt-BR", "en-US", "es"]
-    experience = "5+ years"
+    experience = "10+ years"
 
     focus = [
         "Offensive Security & Red Team",
