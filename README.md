@@ -1,11 +1,5 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/glferreira-devsecops/glferreira-devsecops/main/cyberpunk_terminal.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/glferreira-devsecops/glferreira-devsecops/main/cyberpunk_terminal.svg">
-  <img alt="DevFerreiraG Cyberpunk Terminal" src="https://raw.githubusercontent.com/glferreira-devsecops/glferreira-devsecops/main/cyberpunk_terminal.svg" width="800">
-</picture>
-
 <h1 align="center">Gabriel "DevFerreiraG" Ferreira</h1>
 <h3 align="center">Founder & Engineering Director @ RET Tecnologia</h3>
 
@@ -24,10 +18,7 @@
 
 ---
 
-<details open>
-<summary><h3>🚀 Who I Am (Click to Collapse)</h3></summary>
-<br/>
-
+### 🚀 Who I Am
 **I don't just write code; I build digital fortresses.** 
 
 My foundation was forged in mission-critical environments. Serving as an IT Assistant & Developer for the **Marinha do Brasil (Brazilian Navy)**, I internalized military-grade discipline regarding infrastructure, automation, and continuous monitoring. In such environments, there is no room for error, and security is not an afterthought—it is the baseline.
@@ -35,8 +26,6 @@ My foundation was forged in mission-critical environments. Serving as an IT Assi
 Today, as the Founder and DevSecOps Engineer of **RET Tecnologia**, I engineer B2B architectures capable of sustaining **50,000+ simultaneous connections** with a **99.95% SLA**. I lead teams in reducing deployment cycles from 2 weeks to 3 days using Domain-Driven Design (DDD), all while maintaining strict Zero Trust protocols.
 
 I am a builder who thinks like a hacker. I actively hunt for vulnerabilities such as Zero-days in macOS, SSRF, and Account Takeovers, permanently neutralizing threats before they ever reach production. 
-
-**My Engineering Philosophy:** I strongly advocate against using AI as a "crutch." Secure, scalable software requires strict human review, robust automated testing, and solid architecture—not blind reliance on generative models.
 
 <br/>
 
@@ -63,11 +52,9 @@ I am a builder who thinks like a hacker. I actively hunt for vulnerabilities suc
 </tr>
 </table>
 
-</details>
+---
 
-<details>
-<summary><h3>🛡️ Zero Trust Architecture (Click to Expand)</h3></summary>
-<br/>
+### 🛡️ Zero Trust Architecture
 
 At the core of my methodology is a strict Shift-Left DevSecOps pipeline. We don't bolt security on at the end; we compile it natively into every commit.
 
@@ -85,11 +72,9 @@ graph LR
 
 > **Verify my Infrastructure-as-Code (IaC) governance:** [View my Open-Sourced SLSA Policies](https://github.com/glferreira-devsecops)
 
-</details>
+---
 
-<details>
-<summary><h3>💻 Arsenal Tecnológico Completo (Click to Expand)</h3></summary>
-<br/>
+### 💻 Arsenal Tecnológico Completo
 
 *(Beyond badge hoarding. These are the tools I use in production to drive outcomes).*
 
@@ -116,11 +101,9 @@ graph LR
   </a>
 </div>
 
-</details>
+---
 
-<details>
-<summary><h3>🏆 Projetos em Destaque (Click to Expand)</h3></summary>
-<br/>
+### 🏆 Projetos em Destaque
 
 <table>
   <tr>
@@ -159,24 +142,12 @@ graph LR
   </tr>
 </table>
 
-</details>
-
 ---
 
 ### 📈 GitHub Analytics & Authority
 
-> [!TIP]
-> **DevSecOps In Action:** These stats are generated completely offline using a custom `update_stats.py` GitHub Action pipeline, guaranteeing 100% uptime and bypassing external API rate limits.
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/glferreira-devsecops/glferreira-devsecops/main/assets/stats.svg" alt="DevFerreiraG Stats" width="48%" />
-  <img src="https://raw.githubusercontent.com/glferreira-devsecops/glferreira-devsecops/main/assets/top-langs.svg" alt="Top Languages" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/glferreira-devsecops/glferreira-devsecops/main/assets/streak.svg" alt="GitHub Streak" width="70%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=glferreira-devsecops&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" width="70%" />
 </div>
 
 ---
