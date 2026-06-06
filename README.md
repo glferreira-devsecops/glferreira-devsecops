@@ -1,10 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Gabriel%20%22DevFerreiraG%22%20Ferreira&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Founder%20%26%20Engineering%20Director%20@%20RET%20Tecnologia&descAlignY=55&descAlign=62" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/glferreira-devsecops/glferreira-devsecops/main/cyberpunk_terminal.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/glferreira-devsecops/glferreira-devsecops/main/cyberpunk_terminal.svg">
+  <img alt="DevFerreiraG Cyberpunk Terminal" src="https://raw.githubusercontent.com/glferreira-devsecops/glferreira-devsecops/main/cyberpunk_terminal.svg" width="800">
+</picture>
 
-<a href="https://www.rettecnologia.org">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=c9d1d9&center=true&vCenter=true&width=700&lines=Offensive+Security+%26+AppSec;DevSecOps+%26+Zero+Trust+Architecture;Military-Grade+Cloud+Infrastructure" alt="DevFerreiraG - Founder and Engineering Director at RET Tecnologia, specializing in Security by Design" />
-</a>
+<h1 align="center">Gabriel "DevFerreiraG" Ferreira</h1>
+<h3 align="center">Founder & Engineering Director @ RET Tecnologia</h3>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=c9d1d9&center=true&vCenter=true&width=700&lines=Offensive+Security+%26+AppSec;DevSecOps+%26+Zero+Trust+Architecture;Military-Grade+Cloud+Infrastructure)](https://www.rettecnologia.org)
 
 <br/>
 
@@ -12,14 +19,15 @@
 
 [![Agendar Auditoria de Risco (100% Free)](https://img.shields.io/badge/Agendar_Auditoria_de_Risco_(100%25_Free)-58a6ff?style=for-the-badge)](https://www.rettecnologia.org/#contact)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/devferreirag/)
-[![Dev.to](https://img.shields.io/badge/56_Artigos-0d1117?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/rettecnologia)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/5521979364932)
 
 </div>
 
 ---
 
-### 🚀 Who I Am
+<details open>
+<summary><h3>🚀 Who I Am (Click to Collapse)</h3></summary>
+<br/>
+
 **I don't just write code; I build digital fortresses.** 
 
 My foundation was forged in mission-critical environments. Serving as an IT Assistant & Developer for the **Marinha do Brasil (Brazilian Navy)**, I internalized military-grade discipline regarding infrastructure, automation, and continuous monitoring. In such environments, there is no room for error, and security is not an afterthought—it is the baseline.
@@ -55,9 +63,11 @@ I am a builder who thinks like a hacker. I actively hunt for vulnerabilities suc
 </tr>
 </table>
 
----
+</details>
 
-### 🛡️ DevSecOps & Zero Trust Architecture
+<details>
+<summary><h3>🛡️ Zero Trust Architecture (Click to Expand)</h3></summary>
+<br/>
 
 At the core of my methodology is a strict Shift-Left DevSecOps pipeline. We don't bolt security on at the end; we compile it natively into every commit.
 
@@ -75,9 +85,11 @@ graph LR
 
 > **Verify my Infrastructure-as-Code (IaC) governance:** [View my Open-Sourced SLSA Policies](https://github.com/glferreira-devsecops)
 
----
+</details>
 
-### 💻 Arsenal Tecnológico Completo
+<details>
+<summary><h3>💻 Arsenal Tecnológico Completo (Click to Expand)</h3></summary>
+<br/>
 
 *(Beyond badge hoarding. These are the tools I use in production to drive outcomes).*
 
@@ -104,9 +116,11 @@ graph LR
   </a>
 </div>
 
----
+</details>
 
-### 🏆 Projetos em Destaque
+<details>
+<summary><h3>🏆 Projetos em Destaque (Click to Expand)</h3></summary>
+<br/>
 
 <table>
   <tr>
@@ -145,12 +159,24 @@ graph LR
   </tr>
 </table>
 
+</details>
+
 ---
 
 ### 📈 GitHub Analytics & Authority
 
+> [!TIP]
+> **DevSecOps In Action:** These stats are generated completely offline using a custom `update_stats.py` GitHub Action pipeline, guaranteeing 100% uptime and bypassing external API rate limits.
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=glferreira-devsecops&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" width="70%" />
+  <img src="https://raw.githubusercontent.com/glferreira-devsecops/glferreira-devsecops/main/assets/stats.svg" alt="DevFerreiraG Stats" width="48%" />
+  <img src="https://raw.githubusercontent.com/glferreira-devsecops/glferreira-devsecops/main/assets/top-langs.svg" alt="Top Languages" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/glferreira-devsecops/glferreira-devsecops/main/assets/streak.svg" alt="GitHub Streak" width="70%" />
 </div>
 
 ---
