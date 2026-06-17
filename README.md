@@ -11,7 +11,7 @@
 
 **"A RET Tecnologia não vende código — vende blindagem."**
 
-[![Agendar Auditoria de Risco (100% Free)](https://img.shields.io/badge/Agendar_Auditoria_de_Risco_(100%25_Free)-58a6ff?style=for-the-badge)](https://www.rettecnologia.org/#contact)
+[![Agendar Auditoria de Risco ](https://img.shields.io/badge/Agendar_Auditoria_de_Risco_(100%25_Free)-58a6ff?style=for-the-badge)](https://www.rettecnologia.org/#contact)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/devferreirag/)
 
 </div>
@@ -118,7 +118,7 @@ graph LR
       <b>O Impacto:</b> 500+ downloads globais, sendo utilizado para padronizar esteiras DevSecOps em 12 países.<br/>
       <div align="center">
         <br/>
-        <a href="https://github.com/glferreira-devsecops/superpowers">
+        <a href="https://github.com/glferreira-devsecops/cascavel">
           <img src="https://img.shields.io/badge/View_Framework-58a6ff?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </div>
